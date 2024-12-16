@@ -33,9 +33,8 @@ I'm really bad at visual design or even deciding which of two designs would fit 
 	knownAs = GLXB
 	alsoKnownAs = Shepard
 	email = ustynow.gleb@gmail.com
-	anotherOne = SH3PRD@yandex.ru
-	andABackUpOne = gaustinov@stud.etu.ru
-	telegram = @Sh1p4rD
+	backUp = gaustinov@stud.etu.ru
+	telegram = @GLXBX
 [user's computer]
 	type = laptop
 	os = linux
